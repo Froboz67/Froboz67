@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Froboz and I'm new to Git, GitHub, and development in general.
+
+Today is April 7, 2024! Tomorrow will be the soloar eclipse!
+
 <!--
 **Froboz67/Froboz67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
